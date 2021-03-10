@@ -31,10 +31,3 @@
 
 </div>
 </nav>
-<div class="Sdiv" style="margin-left: 88px;">
-<h1 class="my-4" style="margin-left: 50px !important;">Shop Name</h1>
-<div class="list-group" style="float:left;width: 250px;margin-left:50px;">
-    <a href="#categry1" class="list-group-item">Category 1</a>
-    <a href="#category2" class="list-group-item">Category 2</a>
-    <a href="#category3" class="list-group-item">Category 3</a>
-  </div>

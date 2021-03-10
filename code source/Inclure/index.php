@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
     
         <link rel="apple-touch-icon" href="assets/img/apple-icon.png">
-        
+    
     
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
         <link rel="stylesheet" href="assets/css/templatemo.css">
@@ -36,7 +36,13 @@
 ?>
 <!-- Close Header -->
 
-
+<div class="Sdiv" style="margin-left: 0px;">
+<h1 class="my-4" style="margin-left: 50px !important;">Shop Name</h1>
+<div class="list-group" style="float:left;width: 250px;margin-left:50px;">
+    <a href="#categry1" class="list-group-item">Category 1</a>
+    <a href="#category2" class="list-group-item">Category 2</a>
+    <a href="#category3" class="list-group-item">Category 3</a>
+  </div>
 
 
 <div class="Smoada" style="margin-left:300px;margin-right:100px;margin-top: 5px;" id="clear"> 
