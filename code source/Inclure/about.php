@@ -6,7 +6,6 @@
 
     <link rel="apple-touch-icon" href="assets/img/apple-icon.png">
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
-
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/templatemo.css">
     <link rel="stylesheet" href="assets/css/custom.css">
@@ -129,4 +128,5 @@ https://templatemo.com/tm-559-zay-shop
 
 
 <?php include("assets/PHP-source/footer.php"); ?>
+
 </body></html>
